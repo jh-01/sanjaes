@@ -1,79 +1,72 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Sanjaes
 
-# Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+| 서비스명 | 서비스 소개 |
+|------------|------------|
+| <div align="center"><img src="https://github.com/jh-01/sanjaes/blob/00737584b495b31f736c76c30a50f9e27f6e18a7/assets/image%20(1).png" width=150/> <p>`Sanjaes`</p></div> | 산업재해 보상 및 케이스 분석 지원 |
 
-## Step 1: Start the Metro Server
+<br/>
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+- 숙명여대X연세대 ABC LIVING LAB Hackathon
+- 개발 기간 : 2024.03.09 ~ 2024.03.10
 
-To start Metro, run the following command from the _root_ of your React Native project:
+<br/>
 
-```bash
-# using npm
-npm start
+### 💙 My Team
+- 팀 `오감자`
 
-# OR using Yarn
-yarn start
-```
+| 이름 | 역할 |
+|------------|------------|
+| <a href="https://github.com/jh-01">@jh-01</a> | <p>팀장, 백엔드 </p> -  AWS 서비스 연결|
+| <a href="https://github.com/">@</a> |  |
+| <a href="https://github.com/">@</a> |  |
+| <a href="https://github.com/chesso-o">@</a>   | 프론트엔드(React-Native) |
+| <a href="https://github.com/">@</a>  |  |
 
-## Step 2: Start your Application
+<br/>
+<a href="https://github.com/SongOgong/LaundryCoach-FE">👉 프론트엔드 레포</a>
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
 
-### For Android
+<br/>
 
-```bash
-# using npm
-npm run android
 
-# OR using Yarn
-yarn android
-```
+<br/>
 
-### For iOS
+1.jpg
+10.jpg
+13.jpg
+14.jpg
+15.jpg
+16.jpg
+5.jpg
+6.jpg
+7.jpg
+8.jpg
+9.jpg
 
-```bash
-# using npm
-npm run ios
+## 📌 About This Project
+<a href="https://www.canva.com/design/DAF_AKSoeR0/Rh0JuoQBoeYKzGRHrrIKjQ/edit?utm_content=DAF_AKSoeR0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="https://github.com/jh-01/sanjaes/blob/4d82a695bc4353c132c7a53b57e39d97fe03f017/assets/1.jpg" /></a>
+![7](https://github.com/jh-01/sanjaes/blob/4d82a695bc4353c132c7a53b57e39d97fe03f017/assets/1.jpg)
+![8](https://github.com/jh-01/sanjaes/blob/4d82a695bc4353c132c7a53b57e39d97fe03f017/assets/5.jpg)
+![10](https://github.com/jh-01/sanjaes/blob/4d82a695bc4353c132c7a53b57e39d97fe03f017/assets/6.jpg)
+![10](https://github.com/jh-01/sanjaes/blob/4d82a695bc4353c132c7a53b57e39d97fe03f017/assets/7.jpg)
+![10](https://github.com/jh-01/sanjaes/blob/4d82a695bc4353c132c7a53b57e39d97fe03f017/assets/8.jpg)
+![10](https://github.com/jh-01/sanjaes/blob/4d82a695bc4353c132c7a53b57e39d97fe03f017/assets/9.jpg)
+![10](https://github.com/jh-01/sanjaes/blob/4d82a695bc4353c132c7a53b57e39d97fe03f017/assets/10.jpg)
+![10](https://github.com/jh-01/sanjaes/blob/4d82a695bc4353c132c7a53b57e39d97fe03f017/assets/13.jpg)
+![10](https://github.com/jh-01/sanjaes/blob/4d82a695bc4353c132c7a53b57e39d97fe03f017/assets/14.jpg)
+![10](https://github.com/jh-01/sanjaes/blob/4d82a695bc4353c132c7a53b57e39d97fe03f017/assets/15.jpg)
+![10](https://github.com/jh-01/sanjaes/blob/4d82a695bc4353c132c7a53b57e39d97fe03f017/assets/16.jpg)
 
-# OR using Yarn
-yarn ios
-```
+<a href="https://www.canva.com/design/DAF_AKSoeR0/Rh0JuoQBoeYKzGRHrrIKjQ/edit?utm_content=DAF_AKSoeR0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">🔗 산재스 발표자료 보러 가기</a> <br/>
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+### 👕 Main Features
+| 기능 | 설명 |
+|------------|------------|
+| 1. 인공지능 산재 케이스 분석 |  - 산재 인정 가능성 <br/>- 유사 산재 사례 <br/>- 근처 산재 선정 병원 찾기 |
+| 2. 서류 관리 |- 신청 시 필요한 정보 제공<br/>- 신청서 및 기타 서류 관리<br/>- 자동 작성 기능 |
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+<br/>
+## 📌Architecture
+<img width="2371" alt="산재스 아키텍처" src="https://github.com/jh-01/sanjaes/blob/4d82a695bc4353c132c7a53b57e39d97fe03f017/assets/14.jpg">
